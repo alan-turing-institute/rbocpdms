@@ -1,4 +1,4 @@
-#Robust Bayesian On-line Changepoint Detection
+#### Robust Bayesian On-line Changepoint Detection ###
 
 The pictures for our NeurIPS (2018) paper can be reproduced by executing the relevant files: 
 - *AirPollution_NIPS.py* for the (robust) part of the Figure on London's Air Pollution levels.
